@@ -1,7 +1,7 @@
 import requests
 
 # Digistore24 API-Key
-API_KEY = '1277151-f5lPrSrxftJdXye9ee793QqGhvAGJ3fmdmfoMDb6'
+API_KEY = 'x'
 BASE_URL = 'https://www.digistore24.com/api/call/createVoucher'
 
 # Liste mit Gutschein-Codes (zum Beispiel 350 Codes)
