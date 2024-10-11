@@ -4,8 +4,8 @@ import requests
 API_KEY = 'x'
 BASE_URL = 'https://www.digistore24.com/api/call/createVoucher'
 
-# Liste mit Gutschein-Codes (zum Beispiel 350 Codes)
-codes_liste = ['code1', 'code2', 'code3', 'code4']  # Ersetze dies durch deine 350 Codes
+# Liste mit Gutschein-Codes
+codes_liste = ['code1', 'code2', 'code3', 'code4']
 
 def erstelle_gutschein(code):
     # Daten für den Gutschein mit dem jeweiligen Code
